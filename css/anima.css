@@ -1,0 +1,63 @@
+.anima {
+    animation-duration: 4s;
+    animation-name: anima;
+    animation-delay: 1.4s;
+    animation-fill-mode: both;
+}
+
+
+@keyframes anima{
+0% {
+    opacity: 0;
+    -webkit-transform: scale3d(.3,.3,.3);
+    transform: scale3d(.3,.3,.3);
+}
+}
+
+.animas {
+    animation-duration: 4s;
+    animation-name: animas;
+    animation-delay: 1.4s;
+    animation-fill-mode: both;
+}
+
+
+@keyframes animas{
+0% {
+    opacity: 0;
+    -webkit-transform: scale3d(1,.1,.1);
+    transform: scale3d(1,.1,.1);
+}
+}
+
+.anima3 {
+    animation-duration: 4s;
+    animation-name: anima3;
+    animation-delay: 3s;
+    animation-fill-mode: both;
+}
+
+
+@keyframes anima3{
+0% {
+    opacity: 0;
+    -webkit-transform: scale3d(.3,.3,.3);
+    transform: scale3d(.3,.3,.3);
+}
+}
+
+.animas3 {
+    animation-duration: 2s;
+    animation-name: animas3;
+    animation-delay: 4s;
+    animation-fill-mode: both;
+}
+
+
+@keyframes animas3{
+0% {
+    opacity: 0;
+    -webkit-transform: scale3d(1,.1,.1);
+    transform: scale3d(1,.1,.1);
+}
+}

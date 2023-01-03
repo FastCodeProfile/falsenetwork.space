@@ -1,0 +1,9 @@
+@import 'https://fonts.googleapis.com/css2?family=Goldman&display=swap';
+
+.text-change{
+  font-family: 'Goldman', monospace;
+  font-weight: normal;
+  font-size: larger;
+  color: #ff06065d;
+  filter: drop-shadow(0 0 0.3em rgba(200,200,200,0.3));
+}

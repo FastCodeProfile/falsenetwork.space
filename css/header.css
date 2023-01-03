@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Pompadur; /* Гарнитура шрифта */
+    src: url(../ttf/HACKED.ttf); /* Путь к файлу со шрифтом */
+   }
+
+
+.text {
+    font-family: Pompadur, 'Comic Sans MS';
+    color: rgb(34, 34, 34);
+    font-size: 120px
+   }
+
+@media all and (max-width : 600px) {
+       .text {
+            font-size: 55px;
+    }
+}
